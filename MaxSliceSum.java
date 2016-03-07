@@ -4,6 +4,7 @@ import java.util.*;
 // you can write to stdout for debugging purposes, e.g.
 // System.out.println("this is a debug message");
 
+// Codility URL: https://codility.com/demo/results/trainingE3QD8E-VQX/
 class MaxSliceSum {
     public int solution(int[] A) {
         // write your code in Java SE 8
